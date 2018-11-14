@@ -1,0 +1,49 @@
+<resources>
+    <string name="app_name">NewsApp</string>
+
+    <!-- TabLayout Strings -->
+    <string name="today">Today</string>
+    <string name="sports">Sports</string>
+    <string name="health">Health</string>
+    <string name="entertainment">Entertainment</string>
+    <string name="politics">Politics</string>
+    <string name="education">Education</string>
+    <string name="religion">Religion</string>
+
+    <!-- BottomNavigation Strings -->
+    <string name="home">Home</string>
+    <string name="dashboard">Dashboard</string>
+    <string name="notification">Notification</string>
+    <string name="profile">Profile</string>
+
+    <!-- Image Descriptions -->
+    <string name="main_image">Main Image</string>
+    <string name="message_icon">Message</string>
+    <string name="share_icon">Share</string>
+    <string name="edit_icon">Edit</string>
+
+    <!-- Placeholder Strings -->
+    <string name="first_category">Suspendisse faucibus</string>
+    <string name="first_headline">Fusce risus nisl viverra et Curabitur ligula sapien, tincidunt non, euismod vitae, posuere imperdiet, leo.</string>
+    <string name="first_publisher">Nam commodo suscipit</string>
+
+    <string name="second_category">Proin viverra</string>
+    <string name="second_headline">Sed a libero. Aenean massa. Donec pede justo, fringilla vel, aliquet nec, vulputate eget, arcu.</string>
+    <string name="second_publisher">Fusce pharetra convallis</string>
+
+    <string name="third_category">Nullam sagittis</string>
+    <string name="third_headline">Suspendisse non nisl sit amet velit hendrerit rutrum. Sed hendrerit. Mauris turpis nunc, blandit et, volutpat molestie.</string>
+    <string name="third_publisher">Sed consequat leo</string>
+
+    <string name="fourth_category">Phasellus consectetuer</string>
+    <string name="fourth_headline">Pellentesque dapibus hendrerit tortor. Nullam vel sem. Etiam iaculis nunc ac metus.</string>
+    <string name="fourth_publisher">Fusce egestas elit</string>
+
+    <string name="fifth_category">Maecenas egestas</string>
+    <string name="fifth_headline">Curabitur ullamcorper ultricies nisi, Sed a libero. Proin faucibus arcu quis ante.</string>
+    <string name="fifth_publisher">Etiam sit amet</string>
+
+    <string name="sixth_category">Nunc egestas</string>
+    <string name="sixth_headline">Fusce egestas elit eget lorem. Aenean massa. Donec sodales sagittis magna. Nunc egestas ante.</string>
+    <string name="sixth_publisher">Quisque libero metus</string>
+</resources>
